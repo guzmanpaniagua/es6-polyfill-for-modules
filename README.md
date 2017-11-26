@@ -21,7 +21,8 @@ I need a copy in my own repo, so i did not link his files, so download the code 
 
 I did not own the code, babel and others wrote it, i just have it here for my codepens to work, If some owner wants me to delete them plz notify me 8)
 
- 
+
+
 
 
 
